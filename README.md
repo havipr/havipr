@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-<img align="left" alt="Pandas" width="100px" style="padding-right:10px;" src="https://pandas.pydata.org/static/img/pandas_mark.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://pandas.pydata.org/static/img/pandas_mark.svg" />
 
-<img align="left" alt="Numpy" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png" />
+<img align="left" alt="Numpy" width="80px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png" />
 
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" alt="Pandas" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
 
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://www.r-project.org/Rlogo.png" />
