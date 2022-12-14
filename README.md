@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
 
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://www.r-project.org/Rlogo.png" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://www.tableau.com/themes/custom/tableau_www/logo.png" />
