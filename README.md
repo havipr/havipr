@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-<br>
 
 ### 🧰 Languages and Tools
 
@@ -42,8 +41,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Tableau" width="100px" style="padding-right:10px;" src="https://www.tableau.com/themes/custom/tableau_www/logo.png" />
 <html/>
   
-<br>
-<br>
 <hr>
 
 ### 🎨 Gallery
