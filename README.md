@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+
 ### 🧰 Languages and Tools
 
-
+<html>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="MongoDb" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align="left" alt="Mysql" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
@@ -38,6 +40,10 @@ Here are some ideas to get you started:
 
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://www.r-project.org/Rlogo.png" />
 <img align="left" alt="Tableau" width="100px" style="padding-right:10px;" src="https://www.tableau.com/themes/custom/tableau_www/logo.png" />
+<html/>
+  
+<br>
+<br>
 
 
 ### 🖼️ Gallery
