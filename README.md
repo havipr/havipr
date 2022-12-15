@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<hr>
 <br>
 
 ### 🧰 Languages and Tools
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
   
 <br>
 <br>
+<hr>
 
-
-### 🖼️ Gallery
+### 🎨 Gallery
