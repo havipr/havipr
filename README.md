@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Javi, a data analytics enthusiast with a passion for using data to drive business insights and solutions to real problems.
+
 <!--
 **havipr/havipr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,3 +38,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://www.r-project.org/Rlogo.png" />
 <img align="left" alt="Tableau" width="100px" style="padding-right:10px;" src="https://www.tableau.com/themes/custom/tableau_www/logo.png" />
+
+
+### 🖼️ Gallery
