@@ -26,7 +26,7 @@
 
 ### 🎨 Gallery
 
-Visualizations are being taken from all my projects inside the Data Analytics <a href="https://github.com/havipr/dataAnalytics">Repository.</a>.
+Visualizations are being taken from all my projects inside the Data Analytics <a href="https://github.com/havipr/dataAnalytics">Repository</a>.
 
 
 <hr>
