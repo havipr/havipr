@@ -26,6 +26,9 @@
 
 ### 🎨 Gallery
 
+Visualizations are being taken from all my projects inside the Data Analytics <a href="https://github.com/havipr/dataAnalytics">Repository.</a>.
+
+
 <hr>
 
-<img width="800" alt="Gallery" src="https://user-images.githubusercontent.com/66537664/208020357-9d57cdc2-1146-430b-8227-e4bc8d6877f5.png">
+<img width="700" alt="Gallery" src="https://user-images.githubusercontent.com/66537664/208066826-73a2d66e-6843-4166-a8bb-f1d53252bcf5.png">
