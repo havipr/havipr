@@ -2,12 +2,9 @@
 
 ## 👋 Hi, I Am Javi
 
-- I am a data analytics with a passion for using data to drive business insights.
-- 
-- 
-- 
-- 
-- 
+- I am a data analytics with a passion for using data to drive business oportunities.
+- I have worked in Latin America, Oceania and Asia. 
+
  
 </td><td valign="top" width="25%">
 
