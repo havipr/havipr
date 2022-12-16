@@ -4,13 +4,9 @@
 
 - I am a data analytics with a passion for using data to drive business oportunities.
 - I have worked in Latin America, Oceania and Asia. 
-- I post about my foreign experiences on my <a href="https://Javierreina.com">blog</a>
+- I post about my foreign experiences on my <a href="https://Javierreina.com">blog</a>.
 - When I'm not analyzing data, I enjoy playing sports or exploring Tokyo.
 
-
-
-
-Try again
  
 </td><td valign="top" width="25%">
 
