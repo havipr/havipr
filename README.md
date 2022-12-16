@@ -10,7 +10,7 @@
  
 </td><td valign="top" width="25%">
 
-## 🧰 Languages and Tools
+## 🧰 Tools
 
 - MongoDb
 - Mysql
