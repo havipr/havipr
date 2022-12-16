@@ -26,7 +26,7 @@
 
 ### 🎨 Gallery
 
-Visualizations are being taken from all my projects inside the Data Analytics <a href="https://github.com/havipr/dataAnalytics">Repository</a>.
+I am incorporating visualizations into my projects to better understand and communicate the insights I have gained through data analysis in Python and R. The source data and analysis can be found within the Data Analytics <a href="https://github.com/havipr/dataAnalytics">Repository</a>.
 
 
 <hr>
