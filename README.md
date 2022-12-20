@@ -31,4 +31,33 @@ I am incorporating visualizations into my projects to better understand and comm
 
 <hr>
 
+
+<!-- <p align= "center">
+  <a href=""> 
+  <img src="" width="31%" /> 
+        </a>
+     <a href=""> 
+  <img src="" width="31%" /> 
+        </a>
+     <a href=""> 
+  <img src="" width="31%" /> 
+    <a href=""> 
+    <img style="border:1px solid black" src="" width="31%" /> 
+  </a>
+   <a href=""> 
+    <img src="" width="31%" /> 
+  </a>
+  <a href=""> 
+    <img src="" width="31%" /> 
+  </a>
+   <a href=""> 
+    <img src="" width="31%" /> 
+  </a>
+  <a href=""> 
+  <img src="" width="31%" /> 
+     <a href=""> 
+    <img src="" width="31%" /> 
+    </a> -->
+   
+  
 <img width="700" alt="Gallery" src="https://user-images.githubusercontent.com/66537664/208066826-73a2d66e-6843-4166-a8bb-f1d53252bcf5.png">
