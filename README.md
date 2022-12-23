@@ -12,8 +12,8 @@
 
 ## 🧰 Tools
 
-- MongoDb
-- Mysql
+- MongoDB
+- MySQL
 - R
 - Python
 - Pandas
