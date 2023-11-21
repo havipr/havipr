@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I Am Javi
 
-- I am a data analytics with a passion for using data to drive business oportunities.
+- I live and die by the numbers - I know how to turn everything into data, reveal trends, and use those insights to deliver business and financial results.
 - I have worked in Latin America, Oceania and Asia. 
 - I post about my experiences on my <a href="https://Javierreina.com">blog</a>.
 - When I'm not analyzing data, I enjoy surfing or exploring Tokyo.
